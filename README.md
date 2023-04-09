@@ -29,3 +29,15 @@ Review
 边写rustling边整理了一点知识点
 rustling完成25%
 
+---
+April 8th
+休息了一天
+
+---
+April 9th
+Plan
+学习模式匹配, 泛型, 生命周期,集合类型 
+rustling练习50%
+整理相应的笔记
+
+Review
