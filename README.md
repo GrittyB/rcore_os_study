@@ -41,3 +41,6 @@ rustling练习50%
 整理相应的笔记
 
 Review
+看了模式匹配, 泛型, 生命周期
+rustling和笔记任务没有完成, 声明周期看的比较久
+明天写rusling
