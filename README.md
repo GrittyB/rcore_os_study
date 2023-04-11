@@ -3,6 +3,8 @@ Rust lang and rCore os study record
 
 （由于前几天还在忙其他东西，所以第一次的学习应该是从4月5号开始）
 
+笔记见[§Index](§Index.md)
+
 ## Progress 
 April 5th
 Plan
@@ -42,5 +44,17 @@ rustling练习50%
 
 Review
 看了模式匹配, 泛型, 生命周期
-rustling和笔记任务没有完成, 声明周期看的比较久
+rustling和笔记任务没有完成, 生命周期看的比较久
 明天写rusling
+
+---
+April 11th
+Plan 
+rustling练习60%
+智能指针, 迭代器, 闭包
+
+Review
+整理了之前的笔记
+闭包看了一点
+rustling只写了一点
+还是有点不熟悉,明天继续
