@@ -3,7 +3,7 @@ Rust lang and rCore os study record
 
 （由于前几天还在忙其他东西，所以第一次的学习应该是从4月5号开始）
 
-笔记见[§Index](§Index.md)
+笔记见[§Index](rust/§Index.md)
 
 ## Progress 
 April 5th
@@ -58,3 +58,10 @@ Review
 闭包看了一点
 rustling只写了一点
 还是有点不熟悉,明天继续
+
+---
+April 14~20th
+Review
+最近几天一直在处理个人的事情,14号才稍微有点空学习
+花费了挺长时间,终于在20号完成了rustlings
+
